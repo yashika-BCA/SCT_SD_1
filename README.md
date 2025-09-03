@@ -1,6 +1,3 @@
-# SCT_SD_1
-🔥 Task 01 – Temperature Converter Developed a Python program to convert temperatures between Celsius, Fahrenheit, and Kelvin scales. The program uses clear logic, interactive user input . This task was part of my internship at SkillCraft Technology, focused on strengthening core programming skills and building real-world utility tools.
-
 # 🌡️ Temperature Converter GUI App
 
 A simple and elegant desktop application built in **Java Swing** that allows users to convert temperatures between **Celsius**, **Fahrenheit**, and **Kelvin**. Designed with a clean, centered layout and responsive components, this app is perfect for learning GUI development or performing quick conversions.
